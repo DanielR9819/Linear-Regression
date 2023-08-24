@@ -15,9 +15,16 @@ This portfolio demonstrates my understanding of different machine learning proce
 
 ### Supervised Learning Techniques
 
-1. [Linear Regression](Linear Regression)
+1. [Linear Regression](Linear_Regression.ipynb)
+   
+3. [K-NN](KNN.ipynb)
 
 ### Unsupervised Learning Techniques
+
+3. [K-Means](KMeans.ipynb)
+
+### Essay 
+
 
 ## Built With
 
